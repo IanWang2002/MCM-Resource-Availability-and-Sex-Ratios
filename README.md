@@ -63,7 +63,7 @@ The stochastic simulations suggest that the model is relatively robust because r
 
 ## Files
 - `Math_Modeling_MCM.pdf`: final written report
-- `MCM.ipynb`: simulation and plotting code
+- `Project_MCM.ipynb`: simulation and plotting code
 
 ## How to Run
 1. Clone or download this repository.
