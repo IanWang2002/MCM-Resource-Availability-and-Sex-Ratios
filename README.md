@@ -63,12 +63,11 @@ The stochastic simulations suggest that the model is relatively robust because r
 
 ## Files
 - `Math_Modeling_MCM.pdf`: final written report
-- `code.ipynb` or `main.py`: simulation and plotting code
-- `figures/`: generated plots, if included
+- `MCM.ipynb`: simulation and plotting code
 
 ## How to Run
 1. Clone or download this repository.
-2. Open the notebook or Python script.
+2. Open the notebook script.
 3. Install the required packages:
 
 ```bash
